@@ -241,6 +241,12 @@ a.portdown{
 .portfolio-grid{
 	padding:0.2em 0 0.5em;
 }
+.Portfolio-section h2{
+	padding: 0.8em 0 0.5em 0;
+	line-height: 1.5em;
+	color: #C6C3C5;
+	font-weight: 300;
+}
 /*------FOOTER STARTS---------*/
 .footer{
 	background: url(../images/footerbg.jpg);
@@ -253,7 +259,7 @@ a.portdown{
 .contact-section h2{
 	color: #D2D1D1;
 	font-weight: 300;
-	font-size: 1.5em;
+	font-size: 1.5em!important;
 	padding-top: 0.8em;
 }
 .contact-section span{
