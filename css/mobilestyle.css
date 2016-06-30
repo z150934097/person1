@@ -95,7 +95,7 @@ html,body{
 	font-size:1.2em;
 }
 .bannerhead h2 span{
-	color:#F1E9F2;
+	color:#ffffff;
 	font-weight:bolder;
 	font-size:0.9em;
 }
@@ -105,7 +105,7 @@ html,body{
     font-size: 0.9em;
 }
 .bannerhead p{
-    color:#F1E9F2;
+    color:#ffffff;
     transform: translate(0)!important;
 }
 a.downarrow  span{
